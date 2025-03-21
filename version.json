@@ -1,6 +1,10 @@
 [
   {
+    "version": "1.4.6",
+    "validation": false
+  },
+  {
     "version": "1.4.5",
-    "validation": true
+    "validation": false
   }
 ]
