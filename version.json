@@ -1,7 +1,11 @@
 [
   {
+    "version": "1.5.0",
+    "validation": false
+  },
+  {
     "version": "1.4.6",
-    "validation": true
+    "validation": false
   },
   {
     "version": "1.4.5",
