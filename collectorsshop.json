@@ -1,5 +1,9 @@
 [
   {
+    "version": "1.5.15",
+    "validation": true
+  },
+  {
     "version": "1.5.13",
     "validation": false
   },
