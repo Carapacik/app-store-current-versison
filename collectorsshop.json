@@ -1,14 +1,6 @@
 [
   {
-    "version": "1.5.15",
-    "validation": false
-  },
-  {
-    "version": "1.5.13",
-    "validation": false
-  },
-  {
-    "version": "1.5.12",
-    "validation": false
+    "version": "1.7.0",
+    "validation": true
   }
 ]
